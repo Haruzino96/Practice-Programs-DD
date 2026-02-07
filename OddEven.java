@@ -2,7 +2,7 @@ import java.util.*;
 class OddEven{
     static Scanner scanner = new Scanner(System.in);
 
-    public static void main(String args[]){
+    public static void main(String giann[]){
         int N=0;
         int ctr = 0, ectr=0, octr=0;
         int arrN[];
